@@ -18,8 +18,8 @@ const Description = () => {
         </div>
         <div className="pt-7">
         <h2 className="font-space-grotesk font-semibold text-customBlue lg:text-5xl md:text-3xl sm:text-2xl mb-9 mt-5">Предимства </h2>
-            <p className="font-inter lg:text-xl text-l text-customGreen">Фокусът ни върху клиентите е същността на нашата работа. Ние доставяме услуги за всички видове бизнес – от малки местни предприятия до мултинационални компании.</p>
-            <p className="pt-10 font-inter lg:text-xl text-l text-customGreen">Ние обработваме вашата пратка като всяка друга голяма товарна пратка – старателно и професионално.</p>
+            <p className="font-inter lg:text-xl text-l text-customBlue">Фокусът ни върху клиентите е същността на нашата работа. Ние доставяме услуги за всички видове бизнес – от малки местни предприятия до мултинационални компании.</p>
+            <p className="pt-10 font-inter lg:text-xl text-l text-customBlue">Ние обработваме вашата пратка като всяка друга голяма товарна пратка – старателно и професионално.</p>
         </div>
        </div>
     </section>
