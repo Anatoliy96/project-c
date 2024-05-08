@@ -31,9 +31,9 @@ const spanClasses="hover:text-customBlue whitespace-nowrap";
                 {isOpen ? <img src="/close-icon.jpg" alt="" width={25} height={25} /> : <img src="/menu-icon.png" width={25} height={25}/>}
             </button>
         </div>
-        <div className={`${menuContainerClasses} sm:ml-10 text-customGreen`}>
+        <div className={`${menuContainerClasses} sm:ml-10 text-customBlack`}>
             <Link href="#" className={menuItemClasses}>
-                <span className={`${spanClasses} lg:ml-2 `}>Начало</span>
+                <span className={`${spanClasses} lg:ml-2`}>Начало</span>
             </Link>
             <Link href="#"  className={menuItemClasses}>
                 <span className={spanClasses}>За нас</span>
