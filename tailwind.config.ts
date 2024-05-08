@@ -8,6 +8,16 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors:{
+        customBlue: '#01303A',
+        customYellow:"#E7F874",
+        customGray:"#394649",
+        customBlack:"#01303A"
+      },
+      fontFamily:{
+        inter:['Inter', 'sans-serif'],
+        'space-grotesk': ['Space Grotesk', 'sans-serif']
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
