@@ -3,7 +3,7 @@
 const Services = () => {
     return (
       <section>
-          <div className="flex justify-start p-10">
+          <div className="flex justify-start p-10 items-center">
               <h1 className="font-space-grotesk font-semibold text-5xl text-customBlack p-5 lg:mr-[1000px] mr-[100px]">Други услуги</h1>
           </div>
           <div className="flex flex-col lg:flex-row gap-4 p-5">
